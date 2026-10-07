@@ -5,6 +5,7 @@ Built from 250 practice questions, grouped by CEH v13 module. Each module has ke
 ## Overview
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "15px", "primaryColor": "#f8fafc", "primaryTextColor": "#0f172a", "primaryBorderColor": "#f8fafc", "lineColor": "#94a3b8", "cScale0": "#1d4ed8", "cScale1": "#b91c1c", "cScale2": "#15803d", "cScale3": "#7e22ce", "cScale4": "#c2410c", "cScale5": "#0e7490", "cScale6": "#be185d", "cScale7": "#a16207", "cScale8": "#4338ca", "cScale9": "#475569", "cScale10": "#0369a1", "cScale11": "#6d28d9", "cScaleLabel0": "#ffffff", "cScaleLabel1": "#ffffff", "cScaleLabel2": "#ffffff", "cScaleLabel3": "#ffffff", "cScaleLabel4": "#ffffff", "cScaleLabel5": "#ffffff", "cScaleLabel6": "#ffffff", "cScaleLabel7": "#ffffff", "cScaleLabel8": "#ffffff", "cScaleLabel9": "#ffffff", "cScaleLabel10": "#ffffff", "cScaleLabel11": "#ffffff"}}}%%
 mindmap
   root((CEH v13))
     Foundations
